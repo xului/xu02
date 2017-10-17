@@ -1,1 +1,5 @@
 02-xumimgming.txt
+003-bug.fng
+004-本次添加修复功能
+005-本次commit
+006-xuigai
